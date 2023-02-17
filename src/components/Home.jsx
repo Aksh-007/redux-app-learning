@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Home = () => {
-    
+
     const value = 20
   return (
     <div>
@@ -9,7 +9,7 @@ const Home = () => {
       <button>Increment</button>
       <button>Decrement</button>
     </div>
-  )
+  );
 }
 
 export default Home
